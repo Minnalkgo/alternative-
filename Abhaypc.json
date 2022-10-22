@@ -1,0 +1,18 @@
+
+<!doctype html>
+<html>
+<body>
+<h1>Audio</h1>
+<audio controls>
+ <source src="audio.mp3type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
+<h1>Video</h1>
+
+<video width="325"height="245"controls>
+ <source src="movie.mp4"type="video/mp4">
+</video>
+
+</body>
+</html>
